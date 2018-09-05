@@ -1,0 +1,7 @@
+id=fblaese-button-swap
+name=Aquaris X Pro Button Swap
+version=v1
+versionCode=1
+author=fblaese
+description=Swap Back and Recent Apps Buttons for Aquaris X Pro
+minMagisk=17000
